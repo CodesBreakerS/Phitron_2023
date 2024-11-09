@@ -1,0 +1,72 @@
+#include<bits/stdc++.h>
+using namespace std;
+typedef pair<int,int>pii;    typedef pair<long,long>pll;
+typedef vector<pii>vpii;     typedef vector<pll>vpll;
+typedef vector<int>vi;       typedef vector<string>vs;   typedef vector<bool>vb;
+
+const int N = 1e5+5;
+int parent[N];
+int parentsize[N];
+
+void dsu_set(int n)
+{
+    for(int i =0;i<n;i++)
+    {
+        parent[i] = -1;
+        parentsize[i] = 1;
+    }
+}
+
+int dsu_find(int node)
+{
+    while(parent[node] != -1)
+    {
+        node = parent[node];
+    }
+    return node;
+}
+int mx =0;
+void dsu_union(int a,int b)
+{
+   int leaderA = dsu_find(a);
+   int leaderB = dsu_find(b);
+   if(leaderA != leaderB)
+   {
+   if(parentsize[leaderA] > parentsize[leaderB])
+   {
+    // leader a
+    parent[leaderB] = leaderA;
+    parentsize[leaderA] += parentsize[leaderB];
+    mx = max(mx,parentsize[leaderA]);
+   }
+   else 
+   {
+    // leader b
+    parent[leaderA] = leaderB;
+    parentsize[leaderB] += parentsize[leaderA];
+    mx = max(mx,parentsize[leaderB]);
+   }
+   }
+}
+int main()
+{
+       int n,e; cin >> n >> e;
+       dsu_set(n);
+       int cmp = n;
+       while(e--)
+       {
+        int a,b; cin >> a >> b;
+        int leaderA = dsu_find(a);
+        int leaderB = dsu_find(b);
+        if(leaderA != leaderB)
+        {
+            cmp--;
+            dsu_union(a,b);
+        }
+        cout << cmp << " " << mx << endl;
+       }
+
+       
+
+return 0;
+}

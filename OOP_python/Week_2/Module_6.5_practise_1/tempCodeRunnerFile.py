@@ -1,0 +1,6 @@
+groc.buy_prod('Egg',2)
+# groc.buy_prod('Egg',3)
+# groc.buy_prod('chicken',2)
+# groc.buy_prod('Egg',2)
+# groc.buy_prod('Fish',3)
+# groc.buy_prod('Fish',2)
