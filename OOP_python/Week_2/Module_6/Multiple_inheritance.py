@@ -3,7 +3,7 @@ class addr:
         self.address = address
         
     def __repr__(self) -> str:
-        return f'the address is {self.address}'
+        return f'she lives in {self.address}'
 
 class sports:
     def __init__(self,game) -> None:

@@ -30,7 +30,7 @@ class student(mark):
         super().__init__(batch, sec, course, mid, final)
         self.name = name
         
-    def __repr__(self) -> str:
+    def __repr__(self) ->None:
         print(f"Name: {self.name}\nBatch:{self.batch},Section:{self.sec}")
         return super().__repr__()
 

@@ -1,7 +1,7 @@
-from abc import ABC, abstractclassmethod
+from abc import ABC, abstractmethod
 
 class animal(ABC):
-    @abstractclassmethod
+    @abstractmethod
     def eat(self):
         print("I want food")
     def loc(no):

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91459108-0aaf-414b-a6ba-117084ae2f83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.cph/.G_Palindrome_Array.py_f26c7364907bb26028d21130ecd6bf95.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.cph/.I_Palindrome.cpp_7f7588a5b61cde35e425a2ece35cf457.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.cph/.K_Sum_Digits.py_2727c36db96b35951167339d4f8fa267.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.cph/.M_Replace_MinMax.py_a69396b160dbfb2236220ebb6414ecb1.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.cph/.Q_Reverse_Words.py_eb1d7bea4fad53238df40a8d51236cff.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.cph/.V_Replace_Word.py_8368d759c887c61fadecdb9061015c49.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.cph/.Y_Range_sum_query.py_0088eaa798cc59399693f0465b59eabd.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.idea/OOP_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.idea/fileColors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Conceptual/Cinema_hall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Conceptual/week 2/Encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Conceptual/week 2/Library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Conceptual/week 2/hierarchical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Conceptual/week 2/hybrid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Conceptual/week 2/library_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Conceptual/week 2/multilevel_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Conceptual/week 2/multiple_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Conceptual/week 2/single_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Conceptual/week_1/data_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Conceptual/week_1/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Conceptual/week_1/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/.cph/.I_Palindrome.cpp_be90ed7aeafb92df51481c38c6927403.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/.cph/.I_Palindrome.py_5d3ce284b9719d892bb22cb2d03e6e43.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/.cph/.I_Smallest_Pair.py_c4e1b28ad84d2f8698c0a2592f8ab3c5.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/.cph/.M_Lucky_Numbers.cpp_389dbe0d18e4feadcc2f61d63fa4b159.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/.cph/.M_Lucky_Numbers.py_0886fd37786fc52b809b1692bca80cec.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/.cph/.M_Replace_MinMax.py_29ba2b7197bee85bd4238b87d0ac82d8.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/.cph/.N_Check_Code.py_2fbd9936d399efa9e2e238d6308aaa6f.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/.cph/.O_Fibonacci.py_c31eea72f5a3f0e6edd6bd44a4e11a80.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/I_Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/I_Smallest_Pair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/M_Lucky_Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/M_Replace_MinMax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/N_Check_Code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2.5/O_Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_3.5/.cph/.G_Palindrome_Array.py_ce73cf2ed40199cde520ce90b14e0576.prob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_3.5/G_Palindrome_Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_3.5/K_Sum_Digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_3.5/M_Replace_MinMax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_3.5/Q_Reverse_Words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_3.5/V_Replace_Word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_3.5/Y_Range_sum_query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_3/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_3/lamda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_3/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_3/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_5_Class &amp; Atribute/super_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_6.5_practise_1/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_7/getter_setter_property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_7/inner_wrapper_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_7/library_conceptual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_7/overloading_&amp;_overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_7/static_attribute_method_classMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_7/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_8/MEJE_cinema_hall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP_python/Week_2/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Computer Graphis/DDA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2/args.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2/args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2/kwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_python/Week_1/Module_2/kwargs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_python/Week_2/Module_5_Class &amp; Atribute/Exam.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_5_Class &amp; Atribute/Exam.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_python/Week_2/Module_5_Class &amp; Atribute/Multiple_class_build_school.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_5_Class &amp; Atribute/Multiple_class_build_school.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_python/Week_2/Module_5_Class &amp; Atribute/calculato.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_5_Class &amp; Atribute/calculato.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_python/Week_2/Module_5_Class &amp; Atribute/constuctor_&amp;_init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_5_Class &amp; Atribute/constuctor_&amp;_init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_python/Week_2/Module_6.5_practise_1/shoping.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_6.5_practise_1/shoping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_python/Week_2/Module_6/Abstruct.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_6/Abstruct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_python/Week_2/Module_6/Multi_level_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_6/Multi_level_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP_python/Week_2/Module_6/Multiple_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP_python/Week_2/Module_6/Multiple_inheritance.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2ny5lcChaZaOphTetCiwR3PSPkq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.DDA.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Week__02",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/USER/IRFAN/Programme/Varsity",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91459108-0aaf-414b-a6ba-117084ae2f83" name="Changes" comment="" />
+      <created>1729932627947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729932627947</updated>
+      <workItem from="1729932630487" duration="311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Varsity$DDA.coverage" NAME="DDA Coverage Results" MODIFIED="1729932739615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Computer Graphis" />
+  </component>
+</project>
