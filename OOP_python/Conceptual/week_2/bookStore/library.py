@@ -59,11 +59,11 @@ class library:
                 print('You don\'t have any book with name',token.capitalize())
 
 
-meje = library('MEJE')
+irfan = library('irfan')
 
-admin = meje.addUser(100,'admin', '111')
-irfan = meje.addUser(101, 'Irfan', '123')
-lBook = meje.addBook(10,'Love Book', 10)
+admin = irfan.addUser(100,'admin', '111')
+ilili = irfan.addUser(101, 'Irfan', '123')
+lBook = irfan.addBook(10,'Love Book', 10)
 
 currentUser = admin
 
@@ -77,7 +77,7 @@ while True:
             password = input("Enter password: ")
 
             match = False
-            for user in meje.users:
+            for user in irfan.users:
                 if user.id == id and user.password == password:
                     currentUser = user
                     match = True
@@ -89,11 +89,11 @@ while True:
             name = input('Enter name: ')
             password = input('Enter password: ')
 
-            for user in meje.users:
+            for user in irfan.users:
                 if user == id:
                     print('User already exist')
 
-            user = meje.addUser(id, name, password)
+            user = irfan.addUser(id, name, password)
             currentUser = user
 
     else:
@@ -110,14 +110,14 @@ while True:
                 id = int(input('Enter Book id: '))
                 name = input('Enter book name: ').strip().lower()
                 quantity = int(input("Enter no of books: "))
-                meje.addBook(id, name, quantity)
+                irfan.addBook(id, name, quantity)
             elif op == 2:
                 id = int(input('Enter id: '))
                 name = input('Enter name: ').strip()
-                quantity = input("Enter Password: ")
-                meje.addUser(id, name, password)
+                quantity = int(input("Enter Password: "))
+                irfan.addUser(id, name, password)
             elif op == 3:
-                for book in meje.books:
+                for book in irfan.books:
                     print(f'ID:{book.id}\tNAME:{book.name}')
             elif op == 4:
                 currentUser = None
@@ -125,7 +125,7 @@ while True:
                 print("\n\t---> !!! Choose Valid Option\n")
         else:
             print('\t***All Books**\t\n')
-            for book in meje.books:
+            for book in irfan.books:
                 print(f'Book Name: {book.name} - {book.quantity}Piece')
             print("""Options:
     1.Borrow book
@@ -137,10 +137,10 @@ while True:
 
             if op == 1:
                 name = input('Enter book name: ').lower().strip()
-                meje.borrowbook(currentUser, name)
+                irfan.borrowbook(currentUser, name)
             elif op == 2:
                 name = input('Enter book name: ').lower().strip()
-                meje.returnbook(currentUser, name)
+                irfan.returnbook(currentUser, name)
             elif op == 3:
                 print('***Borrowed Books***')
                 if len(currentUser.borrowBooks)!=0:

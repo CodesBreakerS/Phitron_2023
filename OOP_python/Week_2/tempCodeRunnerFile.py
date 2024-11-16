@@ -1,0 +1,2 @@
+eats[id]:
+            print(col)   

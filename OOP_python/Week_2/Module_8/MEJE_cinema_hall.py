@@ -1,6 +1,6 @@
 
 class star_cinema:
-    hall_list = []    #class attribute
+    hall_list: list = []    #class attribute
     
     def entry_hall(self,hal):
         self.hall_list.append(hal)
